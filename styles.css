@@ -1,0 +1,19 @@
+.carrusel{
+    width: 800px;
+    height: 500px;
+    margin-left: 300px;
+}
+
+.carousel-item{
+    width: 800px;
+    height: 500px;
+}
+
+.primero{
+    margin: 15px 15px 15px 15px;
+    text-align: center;
+}
+
+.info{
+    margin: 15px 15px 15px 15px;
+}
